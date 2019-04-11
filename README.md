@@ -24,5 +24,7 @@ If we want two spheres together, wrap them in a tag called a-entity.
 
 # Example
 In order to create ringed planets, create rings with a shape called a "torus". Keep rings and planets in relative position with the a-entity tag.
+
+More about position: https://github.com/aframevr/aframe/blob/master/docs/components/position.md
   
  
