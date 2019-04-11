@@ -1,5 +1,4 @@
 # VRblocks
-A-Frame Project
 
 A-Frame is a free web framework for building virtual reality experiences. VR content can be viewed on HTC Vive, Oculus Rift, Google Daydream, and Gear VR headsets, 
 as well as desktop and laptop PCs, including everything from complex 3D animated objects to 360-degree panoramas.
