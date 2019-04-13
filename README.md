@@ -5,7 +5,7 @@ A-Frame is a free web framework for building virtual reality experiences. VR con
 In order to explore the space on a desktop, the user will touch and drag or click and drag to change the orientation. 
 
 <h2>How To Use</h2>
-You can use this VR space to practive moving six spheres around the grid. This will help you learn how to quickly alter the position of primitives with A-Frame. You can also play with a friend to move spheres to a claimed target, similar to calling a pocket before hitting the 8 ball in pool. Move the spheres relative to the planets, cube, and cylinders. Please fork before playing.
+You can use this VR space to practice moving six spheres around the grid. This will help you learn how to quickly alter the position of primitives with A-Frame. You can also play with a friend to move spheres to a claimed target, similar to calling a pocket before hitting the 8-ball in pool. Move the spheres relative to the planets, cube, and cylinders. Please fork before playing.
 
 <h2>Credits</h2>
 
